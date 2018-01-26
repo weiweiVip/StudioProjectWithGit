@@ -12,4 +12,14 @@ public class Demo {
     public static void printLnHello(){
         Log.e("wei","hello world!");
     }
+    public static void secondMethod(){
+
+    }
+    public static void depMethod(){
+
+    }
+    public static void testMethod(){
+
+    }
+
 }
