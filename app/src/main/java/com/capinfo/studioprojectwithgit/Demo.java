@@ -12,4 +12,8 @@ public class Demo {
     public static void printLnHello(){
         Log.e("wei","hello world!");
     }
+
+    public static void masterMethod(){
+        Log.e("wei","hello master!");
+    }
 }
