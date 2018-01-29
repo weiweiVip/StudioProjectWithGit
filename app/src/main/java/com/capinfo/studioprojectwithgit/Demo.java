@@ -16,4 +16,14 @@ public class Demo {
     public static void masterMethod(){
         Log.e("wei","hello master!");
     }
+    public static void secondMethod(){
+
+    }
+    public static void depMethod(){
+
+    }
+    public static void testMethod(){
+
+    }
+
 }
