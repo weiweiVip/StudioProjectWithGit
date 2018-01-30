@@ -6,6 +6,7 @@ import android.util.Log;
  * Created by luhongwei on 2018/1/26.
  * 增加注释，这是一个demo,用来学习git
  *  再增加一行注释，这行注释是在Github上添加的。。。
+ * 最后增加一行注释，看看Github上提交时的邮箱是哪个。
  */
 
 public class Demo {
